@@ -3,14 +3,6 @@
 ## Overview
 
 This repository contains a comprehensive dataset of movies, complete with various details ranging from basic information like titles and release dates to financial figures and crew details. The dataset is designed for analysis and exploration of movie industry trends, box office performance, and linguistic diversity in films.
-![output](https://github.com/theomid80/movies-analysys/assets/164475131/f664a7e6-c0a2-48f2-ae8a-9de46df687f6)
-![4](https://github.com/theomid80/movies-analysys/assets/164475131/f2578494-5f55-40bd-9d12-2abe87e9ed43)
-![3](https://github.com/theomid80/movies-analysys/assets/164475131/e4ac08f5-7d45-41e6-9eed-662b359a5bb5)
-![2](https://github.com/theomid80/movies-analysys/assets/164475131/22d262e0-70a3-4801-a09c-1591e0498cf2)
-![1](https://github.com/theomid80/movies-analysys/assets/164475131/ef9dcb9f-3517-4aec-82f3-3cd37d1bbde7)
-![7](https://github.com/theomid80/movies-analysys/assets/164475131/7361abae-c2ba-4c37-bf45-1dfeecc4a369)
-![6](https://github.com/theomid80/movies-analysys/assets/164475131/1fc4b1c1-0f11-44f6-89d2-f31e998a33bd)
-![5](https://github.com/theomid80/movies-analysys/assets/164475131/b01e97ed-3d78-4d91-9fae-683cd25d75ab)
 
 ## Dataset Description
 
